@@ -13,9 +13,9 @@ Iam open to internship opportunities where I can learn and contribute.
 - 
 🌱 I’m currently learning ...
 - **python** | **java** | **sql**
-- - **POWER-BI** | **Spring Boot**
-- - **Data Structures and Algorithms**
-- -**EXCEL** | 
+- **POWER-BI** | **Spring Boot**
+- **Data Structures and Algorithms**
+- **EXCEL** | 
 
 💞️ I’m looking to collaborate on ---
 -Open Source Projects 🚀
