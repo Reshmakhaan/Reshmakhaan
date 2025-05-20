@@ -4,13 +4,13 @@ I'm a passionate Software Engineering student and a tech enthusiast always curio
 I'm working on leveling up my coding skills and contributing to meaningful projects.
 Iam open to internship opportunities where I can learn and contribute.
 
-👀 I’m interested in Web Development (Frontend & Backend)
+👀 I’m interested in Data Analytics and Full stack
 - "DATA ANALYTICS"
 - "POWER-BI DEVELOPER
 - Open Source Contributions
 - UI/UX and Product Design
 - Problem Solving & Competitive Programming...
-- 
+- Full stack web development
 🌱 I’m currently learning ...
 - **python** | **java** | **sql**
 - **POWER-BI** | **Spring Boot**
